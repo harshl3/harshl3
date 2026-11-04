@@ -5,10 +5,10 @@ I am a **Final-year B.Tech Information Technology student** with a strong founda
 
 💼 **Experience:**<br>
 
-🚀 **Software Developer Intern – Northern Lights Analytics Pvt. Ltd.** (Ongoing)<br>
+🚀 **Software Developer Intern – Northern Lights Analytics Pvt. Ltd.** <br>
 Working on software development involving web and mobile applications, backend integrations, and application development.<br><br>
 
-🎓 **UBA – Coordinator, Technical Team** (Ongoing)<br>
+🎓 **UBA – Coordinator, Technical Team** <br>
 Leading the technical team in developing school management software for teachers and students across multiple schools, with a focus on improving digital education in rural communities.<br><br>
 
 📱 **Android Developer Intern – Google for Developers (Virtual)**<br>
