@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 👨‍💻 **About Me:**<br>
 I am a **Final-year B.Tech Information Technology student** with a strong foundation in **Java programming** and hands-on experience in **Full-Stack Software Development, Mobile Application Development, and AI-powered solutions**. I have experience building applications using **Flutter, React, Node.js, Express.js, Spring Boot, and modern database technologies**. I am currently exploring **Artificial Intelligence, Machine Learning, RAG, and scalable backend development**. I enjoy solving real-world problems, developing products from concept to deployment, and continuously learning new technologies.<br><br>
