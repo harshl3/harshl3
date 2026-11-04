@@ -1,4 +1,4 @@
-# 💫 About Me:
+# SUMMARY:
 👨‍💻 **About Me:**<br>
 I am a **Final-year B.Tech Information Technology student** with a strong foundation in **Java programming** and hands-on experience in **Full-Stack Software Development, Mobile Application Development, and AI-powered solutions**. I have practical experience building web and mobile applications using **Flutter, React, Node.js, Express.js, Spring Boot, and modern database technologies**. I am currently exploring **Artificial Intelligence, Machine Learning, RAG, and scalable backend development**. I enjoy solving real-world problems, developing products from concept to deployment, and continuously learning new technologies.<br><br>
 
@@ -24,10 +24,10 @@ Building an AI-powered platform that helps users identify overlooked risks, hidd
 💪 **[FitLens AI – AI Nutrition & Fitness Assistant](https://github.com/harshl3/FitLens-AI)**<br>
 Developed an AI-powered fitness application that analyzes food images and natural-language inputs to estimate nutritional values, provides personalized nutrition targets, meal suggestions, and AI-powered fitness assistance.<br><br>
 
-📚 **Vidya Sathi – Educational Management Application**<br>
+📚 **Vidya Sathi – Educational Management Application (https://github.com/harshl3/updated-uba)**<br>
 Developing an educational mobile application under UBA to support teachers and students across multiple schools, focusing on digital education, attendance management, and rural education.<br><br>
 
-💬 **[Chativo – Real-Time Chat Application] (https://github.com/harshl3/Chativo)**<br>
+💬 **Chativo – Real-Time Chat Application (https://github.com/harshl3/Chativo)**<br>
 Built a real-time chat application using Flutter and Firebase with email authentication, one-to-one messaging, user profiles, image sharing, emoji support, and Cloud Firestore synchronization.<br><br>
 
 🏆 **Achievements:**<br>
